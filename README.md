@@ -11,7 +11,8 @@ Please read the whole Readme for more information about this setup.
 To install run this command in termux
 
 ```
-curl -sL https://raw.githubusercontent.com/Adigunaguna/gunb/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+https://raw.githubusercontent.com/Adigunaguna/gunb/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+
 ```
 &nbsp;
 
